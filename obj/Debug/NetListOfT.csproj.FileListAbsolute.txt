@@ -1,0 +1,6 @@
+c:\users\adi\documents\visual studio 2013\Projects\NetListOfT\NetListOfT\bin\Debug\NetListOfT.exe.config
+c:\users\adi\documents\visual studio 2013\Projects\NetListOfT\NetListOfT\bin\Debug\NetListOfT.exe
+c:\users\adi\documents\visual studio 2013\Projects\NetListOfT\NetListOfT\bin\Debug\NetListOfT.pdb
+c:\users\adi\documents\visual studio 2013\Projects\NetListOfT\NetListOfT\obj\Debug\NetListOfT.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2013\Projects\NetListOfT\NetListOfT\obj\Debug\NetListOfT.exe
+c:\users\adi\documents\visual studio 2013\Projects\NetListOfT\NetListOfT\obj\Debug\NetListOfT.pdb
